@@ -1,0 +1,3 @@
+# spring-boot-javafx
+
+JavaFXのControllerでSpringのDIを利用するやり方を調査していたリポジトリです。
